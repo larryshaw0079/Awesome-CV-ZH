@@ -10,7 +10,18 @@
 \newcommand*{\bodyfontlight}{\CJKfontspec{Microsoft YaHei Light}}
 ```
 
-`\bodyfont`对应正文字体，`\bodyfontlight`对应正文里的小字。
+`\bodyfont`对应正文字体，`\bodyfontlight`对应正文里的小字。下面是Windows系统自带的一些中文字体：
+
+- FangSong，仿宋
+- KaiTi，楷体
+- Microsoft YaHei，微软雅黑
+- NSimSun，新宋体
+- SimHei，黑体
+- SimSun，宋体
+
+效果如下：
+
+![](https://i.loli.net/2020/08/13/5klS8NLI1nTPdXx.png)
 
 ## Usage
 
